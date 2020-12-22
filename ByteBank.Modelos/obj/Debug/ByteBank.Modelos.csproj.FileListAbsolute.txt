@@ -1,0 +1,6 @@
+E:\Cursos Alura\csharp-parte-5-bibliotecas-dlls-documentacao-e-usando-o-nuget\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+E:\Cursos Alura\csharp-parte-5-bibliotecas-dlls-documentacao-e-usando-o-nuget\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+E:\Cursos Alura\csharp-parte-5-bibliotecas-dlls-documentacao-e-usando-o-nuget\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+E:\Cursos Alura\csharp-parte-5-bibliotecas-dlls-documentacao-e-usando-o-nuget\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+E:\Cursos Alura\csharp-parte-5-bibliotecas-dlls-documentacao-e-usando-o-nuget\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+E:\Cursos Alura\csharp-parte-5-bibliotecas-dlls-documentacao-e-usando-o-nuget\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
